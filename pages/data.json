@@ -1,0 +1,44 @@
+{
+    "projectData": 
+        [
+            {
+                "id": 1,
+                "title": "Captains Log",
+                "blurb": "Captain's Log ia a scheduler for pilots with families. It allows family groups and custom items.",
+                "details": "Captain's Log ia a scheduler for pilots with families. Built using React and Firebase for authentication and data storage.",
+                "image": "/images/captainsLog.png",
+                "visitUrl": "https://captainslog.oliverarmstrongdev.com",
+                "moreUrl": "/captainslog"
+            
+            },
+            {
+                "id": 2,
+                "title": "Freebird Wedding Films",
+                "blurb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "details": "Details... , ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "image": "/images/freebird.png",
+                "visitUrl": "https://freebirdweddingfilms.com.au",
+                "moreUrl": "/freebird"
+                
+            },
+            {
+                "id": 3,
+                "title": "something else",
+                "blurb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "details": "",
+                "image": "/images/freebird.png",
+                "visitUrl": "/captains-log",
+                "moreUrl": "/captains-log"
+            },
+            {
+                "id": 4,
+                "title": "Adjust To Life",
+                "blurb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "details": "Details... Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "image": "/images/ATL.png",
+                "visitUrl": "https://adjusttolife.com.au/",
+                "moreUrl": "/adjusttolife"
+            }
+            
+        ]
+}
