@@ -4,8 +4,8 @@
             {
                 "id": 1,
                 "title": "Captains Log",
-                "blurb": "Captain's Log ia a scheduler for pilots with families. It allows family groups and custom items.",
-                "details": "Captain's Log ia a scheduler for pilots with families. Built using React and Firebase for authentication and data storage.",
+                "blurb": "Captain's Log is a scheduler for pilots with families. It has family grouping, custom schedule items and more.",
+                "details": "scheduling calendar for pilots with families, to track working, free, and pickup- from-school days; using React, Firestore and Firebase for Database and authentication. You select a category, click the date and save... simple! There is a demo login so feel free to take a look. ",
                 "image": "/images/captainsLog.png",
                 "visitUrl": "https://captainslog.oliverarmstrongdev.com",
                 "moreUrl": "/captainslog"
@@ -14,8 +14,8 @@
             {
                 "id": 2,
                 "title": "Freebird Wedding Films",
-                "blurb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
-                "details": "Details... , ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "blurb": "A wedding videography website. Simple but easy to use.",
+                "details": "Freebird wedding films was a redesign of a website that was created by the owner. There were no clear sections, no showcase items and it had 0% conversions. Now it showcases his work and has reasonable conversion rates.",
                 "image": "/images/freebird.png",
                 "visitUrl": "https://freebirdweddingfilms.com.au",
                 "moreUrl": "/freebird"
@@ -23,18 +23,27 @@
             },
             {
                 "id": 3,
-                "title": "something else",
-                "blurb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
-                "details": "",
-                "image": "/images/freebird.png",
-                "visitUrl": "/captains-log",
-                "moreUrl": "/captains-log"
+                "title": "Frozen Card Matching Game",
+                "blurb": "A Disney Frozen Disney’s Frozen themed children’s card matching game (PWA) using React, Firestore and Firebase. You can save scores and change the background style.",
+                "details": "This is a Disney’s Frozen themed children’s card matching game (PWA) using React, Firestore and Firebase. This was one of the first React apps I made and I decided to make a simple game that my daughter could use... it was fun for both of us!",
+                "image": "/images/frozen.png",
+                "visitUrl": "https://frozen.oliverarmstrongdev.com/",
+                "moreUrl": "/frozen"
             },
             {
                 "id": 4,
+                "title": "Greyburn Maintenance Portal",
+                "blurb": "A fault reporting web app for a building maintenance company.",
+                "details": "This is a fault reporting web app for a building maintenance company, which solved their problem of having to manually enter data into a CRM from up to a hundred weekly emails. (for privacy there is no link to this site).",
+                "image": "/images/greyburn.png",
+                "visitUrl": "#",
+                "moreUrl": "/greyburn"
+            },
+            {
+                "id": 5,
                 "title": "Adjust To Life",
-                "blurb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
-                "details": "Details... Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, perspiciatis",
+                "blurb": "A fresh looking chiropractic business website. It replaced a 90's looking site that was hard to navigate.",
+                "details": "Adjust to Life was a redesign of an outdated website. There were no clear sections, different font sizes and the colours didn't match their branding.",
                 "image": "/images/ATL.png",
                 "visitUrl": "https://adjusttolife.com.au/",
                 "moreUrl": "/adjusttolife"
