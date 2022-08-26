@@ -3,9 +3,9 @@
         [
             {
                 "id": 1,
-                "title": "Captains Log",
+                "title": "Captains Log - ReactJS",
                 "blurb": "Captain's Log is a scheduler for pilots with families. It has family grouping, custom schedule items and more.",
-                "details": "scheduling calendar for pilots with families, to track working, free, and pickup- from-school days; using React, Firestore and Firebase for Database and authentication. You select a category, click the date and save... simple! There is a demo login so feel free to take a look. ",
+                "details": "Scheduling calendar for pilots with families, to track working, free, and pickup- from-school days; using React, Firestore and Firebase for Database and authentication. <br><br/>You select a category, click the date and save... simple! <br><br>There is a demo login so feel free to take a look.",
                 "image": "/images/captainsLog.png",
                 "visitUrl": "https://captainslog.oliverarmstrongdev.com",
                 "moreUrl": "/captainslog"
@@ -13,41 +13,61 @@
             },
             {
                 "id": 2,
-                "title": "Freebird Wedding Films",
-                "blurb": "A wedding videography website. Simple but easy to use.",
-                "details": "Freebird wedding films was a redesign of a website that was created by the owner. There were no clear sections, no showcase items and it had 0% conversions. Now it showcases his work and has reasonable conversion rates.",
-                "image": "/images/freebird.png",
-                "visitUrl": "https://freebirdweddingfilms.com.au",
-                "moreUrl": "/freebird"
-                
+                "title": "List Meister - React Native",
+                "blurb": "A shopping list app, or a todo list. It has a master list for regularly used items/tasks...",
+                "details": "There is a Current List which contains your items to check off/complete as required.<br><br>There is also a \"Master List\" which contains regularly used items - these can be selected and copied into the \"Current List\" to reduce typing.<br><br>You can add custom, one-off items into the current list.<br><br>All items can be checked/marked as completed, or deleted, and they can be dragged to reorder their position in the list.<br><br>All changes are persisted as the lists are stored on local device storage.",
+                "image": "/images/list-meister.png",
+                "visitUrl": "",
+                "moreUrl": "/listmeister"
+            
             },
             {
                 "id": 3,
-                "title": "Frozen Card Matching Game",
-                "blurb": "A Disney Frozen Disney’s Frozen themed children’s card matching game (PWA) using React, Firestore and Firebase. You can save scores and change the background style.",
-                "details": "This is a Disney’s Frozen themed children’s card matching game (PWA) using React, Firestore and Firebase. This was one of the first React apps I made and I decided to make a simple game that my daughter could use... it was fun for both of us!",
+                "title": "Headless Blog - Next.js",
+                "blurb": "A simple Blog site built using Next.js and a headless CMS (Contentful)...",
+                "details": "This is a simple blog project built using Next.js on the front end and Contentful headless CMS for the backend.<br><br>Any changes made in the backend (Contentful) are updated in the front end automatically using ISR (incremental Static Regeneration).<br><br>It also has an auto redirect after 3 seconds for a 404 not found page.",
+                "image": "/images/Headless.png",
+                "visitUrl": "https://headlessblog.vercel.app",
+                "moreUrl": "/headless"
+            },
+            {
+                "id": 4,
+                "title": "Frozen Card Matching Game - ReactJS",
+                "blurb": "A Disney's Frozen themed children's card matching game.<br><br>It's a progressive Web app (PWA), built using React, Firestore and Firebase...",
+                "details": "This is a Disney's Frozen themed children's card matching game.<br><br>It's a progressive Web app (PWA) built using React, Firestore and Firebase.<br><br>This was one of the first React apps I made and I decided to make a simple game that my daughter could use... it was fun for both of us!",
                 "image": "/images/frozen.png",
                 "visitUrl": "https://frozen.oliverarmstrongdev.com/",
                 "moreUrl": "/frozen"
             },
             {
-                "id": 4,
+                "id": 5,
+                "title": "Robotize Me - ReactJS",
+                "blurb": "Find out what Robot your name looks like from an Artificial intelligence API...",
+                "details": "This is one of the first apps I made when I was learning React.<br>It takes any input string and uses an external API to hash the input and return an AI generated robot.<br><br>Have a go it's quite fun!",
+                "image": "/images/robotize.png",
+                "visitUrl": "https://robotize.oliverarmstrongdev.com",
+                "moreUrl": "/robotize"
+            },
+            {
+                "id": 6,
                 "title": "Greyburn Maintenance Portal",
                 "blurb": "A fault reporting web app for a building maintenance company.",
-                "details": "This is a fault reporting web app for a building maintenance company, which solved their problem of having to manually enter data into a CRM from up to a hundred weekly emails. (for privacy there is no link to this site).",
+                "details": "This is a fault reporting web app for a building maintenance company, which solved their problem of having to manually enter data into a CRM from up to a hundred weekly emails.<br><br>(For privacy there is no link to this site).",
                 "image": "/images/greyburn.png",
-                "visitUrl": "#",
+                "visitUrl": "",
                 "moreUrl": "/greyburn"
             },
             {
-                "id": 5,
-                "title": "Adjust To Life",
-                "blurb": "A fresh looking chiropractic business website. It replaced a 90's looking site that was hard to navigate.",
-                "details": "Adjust to Life was a redesign of an outdated website. There were no clear sections, different font sizes and the colours didn't match their branding.",
-                "image": "/images/ATL.png",
-                "visitUrl": "https://adjusttolife.com.au/",
-                "moreUrl": "/adjusttolife"
+                "id": 7,
+                "title": "Freebird Wedding Films",
+                "blurb": "A wedding videography website. Simple, clean and converts well...",
+                "details": "Freebird wedding films was a redesign of a website that was originally created by the owner.<br><br>There was previously one page with one big section. There were no showcase videos and no calls to action, hence it had 0% conversions.<br><br>Now it has a clear path to follow. It showcases his work, and has good conversion rates.",
+                "image": "/images/freebird.png",
+                "visitUrl": "https://freebirdweddingfilms.com.au",
+                "moreUrl": "/freebird"
+                
             }
+            
             
         ]
 }
