@@ -33,10 +33,13 @@ const Example = (args) => {
               <NavLink href="/">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#about">About</NavLink>
+              <NavLink href="https://oliverarmstrongdev.com/#about">About</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#projects">Projects</NavLink>
+              <NavLink href="https://oliverarmstrongdev.com/#projects">Projects</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="mailto:connect@oliverarmstrongdev.com">Contact Me</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
